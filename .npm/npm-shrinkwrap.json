@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "node-gcm": {
+      "version": "0.9.4",
+      "from": "node-gcm@0.9.4",
+      "resolved": "https://registry.npmjs.org/node-gcm/-/node-gcm-0.9.4.tgz"
+    }
+  }
+}
