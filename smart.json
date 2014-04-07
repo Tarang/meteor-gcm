@@ -3,6 +3,6 @@
   "description": "A wrapper around node-gcm to message android devices",
   "homepage": "https://github.com/tarangp/meteor-gcm",
   "author": "Tarang Patel  (http://tarang.me)",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "git": "https://github.com/tarangp/meteor-gcm.git"
 }
